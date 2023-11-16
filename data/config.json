@@ -1,0 +1,109 @@
+{
+  "Braniumacademy":[
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/braniumacademy/c.jpg"
+    },
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/braniumacademy/java.jpg"
+    }
+  ],
+  "CodeLearn":[
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/codeLearn/c.png"
+    },
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/codeLearn/js.png"
+    }
+  ],
+  "F8": [
+    {
+      "width": 2000,
+      "height": 1439,
+      "src": "./photos/F8/OnboardingCertificate.png"
+    },
+    {
+      "width": 2000,
+      "height": 1439,
+      "src": "./photos/F8/html&cssbasic-f8.png"
+    },
+    {
+      "width": 2000,
+      "height": 1439,
+      "src": "./photos/F8/ResponsiveWebDesign.png"
+    },
+    {
+      "width": 2000,
+      "height": 1439,
+      "src": "./photos/F8/f8-jsbasic.png"
+    },
+    {
+      "width": 2000,
+      "height": 1439,
+      "src": "./photos/F8/f8-jsadvance.png"
+    }
+  ],
+  "Greenwich":[
+    {
+      "width": 2000,
+      "height": 1439,
+      "src": "./photos/Greenwich/english.jpg"
+    },
+    {
+      "width": 2000,
+      "height": 1439,
+      "src": "./photos/Greenwich/proceduralProgamming.jpg"
+    },
+    {
+      "width": 2000,
+      "height": 1439,
+      "src": "./photos/Greenwich/progamming.jpg"
+    },
+    {
+      "width": 2000,
+      "height": 1439,
+      "src": "./photos/Greenwich/top3spring.jpg"
+    }
+  ],
+  "Gymnasium":[
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/Gymnasium/gymnasiumWeb.jpg"
+    },
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/Gymnasium/responsiveGymn.jpg"
+    },
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/Gymnasium/ux.jpg"
+    },
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/Gymnasium/jsbasic.jpg"
+    },
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/Gymnasium/jsadvance.jpg"
+    }
+  ],
+  "Udemy":[
+    {
+      "width": 938,
+      "height": 677,
+      "src": "./photos/udemy/linux.jpg"
+    }
+  ]
+}
